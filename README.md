@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nonszalancki and I'm currently learning python and C/C++
+- 👋 Hi, I’m @nonszalancki and I'm currently trying to build an eurorack modular synth.
 
 <!---
 nonszalancki/nonszalancki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
